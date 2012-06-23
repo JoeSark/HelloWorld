@@ -22,14 +22,14 @@
 		71E53D181592A19E00778E4D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		71E53D1A1592A19E00778E4D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		71E53D1C1592A19E00778E4D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		71E53D201592A19E00778E4D /* HelloWorld-Info.plist */ = {isa = PBXFileReference; path = "HelloWorld-Info.plist"; sourceTree = "<group>"; };
+		71E53D201592A19E00778E4D /* HelloWorld-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloWorld-Info.plist"; sourceTree = "<group>"; };
 		71E53D221592A19E00778E4D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		71E53D241592A19E00778E4D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		71E53D261592A19E00778E4D /* HelloWorld-Prefix.pch */ = {isa = PBXFileReference; path = "HelloWorld-Prefix.pch"; sourceTree = "<group>"; };
-		71E53D271592A19E00778E4D /* HelloWorldAppDelegate.h */ = {isa = PBXFileReference; path = HelloWorldAppDelegate.h; sourceTree = "<group>"; };
+		71E53D261592A19E00778E4D /* HelloWorld-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloWorld-Prefix.pch"; sourceTree = "<group>"; };
+		71E53D271592A19E00778E4D /* HelloWorldAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldAppDelegate.h; sourceTree = "<group>"; };
 		71E53D281592A19E00778E4D /* HelloWorldAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldAppDelegate.m; sourceTree = "<group>"; };
 		71E53D2B1592A19E00778E4D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		71E53D2D1592A19E00778E4D /* HelloWorldViewController.h */ = {isa = PBXFileReference; path = HelloWorldViewController.h; sourceTree = "<group>"; };
+		71E53D2D1592A19E00778E4D /* HelloWorldViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldViewController.h; sourceTree = "<group>"; };
 		71E53D2E1592A19E00778E4D /* HelloWorldViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
